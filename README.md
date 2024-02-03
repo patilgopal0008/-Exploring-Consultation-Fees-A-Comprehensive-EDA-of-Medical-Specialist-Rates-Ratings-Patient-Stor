@@ -6,7 +6,9 @@ The main objective of the project is to analyse   doctor’s based on their city
 ## Data Collection-
 ###### For web scraping website used is Practo.  
 
-Practo Search is a patient focused, unbiased, independent medical website  Patients can book confirmed appointments with doctors listed on Practo's website from this websites the information like doctor’s name, area, city, consultation fee, rating, experience and stories of the patients who has got treated by the doctors by using python modules :
+Practo Search is a patient focused, unbiased, independent medical website  Patients can book confirmed appointments with doctors listed on Practo's website from this websites the information like doctor’s name, area, city, consultation fee, rating, experience and stories of the patients who has got treated by the doctors .
+
+# Libraries used -
 Numpy
 Pandas
 matplotlib
