@@ -1,4 +1,4 @@
-# "Exploring Consultation Fees: A Comprehensive EDA of Medical Specialist Rates, Ratings, Patient Stories, and Regional Variances in Python
+# Exploring Consultation Fees: A Comprehensive EDA of Medical Specialist Rates, Ratings, Patient Stories, and Regional Variances in Python
 
 ## Exploratory Data Analysis-
 ## Aim -
