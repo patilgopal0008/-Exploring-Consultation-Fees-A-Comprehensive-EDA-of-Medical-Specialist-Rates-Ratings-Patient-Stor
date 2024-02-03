@@ -1,6 +1,7 @@
 # "Exploring Consultation Fees: A Comprehensive EDA of Medical Specialist Rates, Ratings, Patient Stories, and Regional Variances in Python
 
 ## Exploratory Data Analysis-
+## Aim -
 The main objective of the project is to analyse   doctor’s based on their city, specialization, stories and experience  
 
 ## Data Collection-
