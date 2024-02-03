@@ -9,11 +9,11 @@ The main objective of the project is to analyse   doctor’s based on their city
 Practo Search is a patient focused, unbiased, independent medical website  Patients can book confirmed appointments with doctors listed on Practo's website from this websites the information like doctor’s name, area, city, consultation fee, rating, experience and stories of the patients who has got treated by the doctors .
 
 ### Libraries used -
-Numpy
-Pandas
-matplotlib
-Seaborn
-Regex , beautifulsoup & requests
+Numpy  
+Pandas  
+matplotlib  
+Seaborn  
+Regex , beautifulsoup & requests  
 
 
 
